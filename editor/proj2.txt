@@ -1,0 +1,17 @@
+PROGRESS:
+(why did I start so god damn late)
+
+03/06/16:
+DONE: Font + Spacing
+DONE: Font Size Changes
+DONE: Cursor display
+DONE: Cursor with arrows
+DONE: Word wrapping
+DONE: Window Size Change Listener
+    TO BE DONE: Re-renders when WINDOW_HEIGHT & WINDOW_WIDTH changed,
+		but takes like 10 resizes before it actually updates
+		the width and height for some odd reason.
+DONE: Cursor with click
+DONE: Open and Save
+TO BE DONE: Everything else..
+
